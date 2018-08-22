@@ -23,3 +23,5 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 > We created 1 000 000 000 BTL and 900 000 000 BTL are for sale.
 > The coins unsold will be burned after the ICO !
 > Also a part of the 100 000 000 BTL of the team will be burned too - we will talk with community at that time ! and the rest will be locked for 5 years with yearly percent unlock - we will decide it with community too !
+# Is there a website?
+* http://bit.la/ is the only official website. Beware of phishing pages offering tokens in exchange for private keys.
