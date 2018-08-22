@@ -26,6 +26,6 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 # Is there a website?
 * http://bit.la/ is the only official website. Beware of phishing pages offering tokens in exchange for private keys.
 # Is there a Discord/Telegram server?
-* We dont have yet any Discord/Telegram ,please follow us on Twitter https://twitter.com/bitlaexchange
+* We already have an Telegram but will be disclosed at a time to all our Twitter followers,please follow us on Twitter https://twitter.com/bitlaexchange to receive last news about Bit.la
 # Is there a Twitter account ?
-* The only twitter account we use is https://twitter.com/bitlaexchange
+* The only twitter account we use is https://twitter.com/bitlaexchange so Beware of Scams !
