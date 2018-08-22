@@ -16,3 +16,9 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 * BTL20 is much valuable because will be used as 50% discount to pay for fees and on every transaction a percent will be burned.
 * BTL20 will be used on payment processor too.
 * In this way we just created the first exchange and payment processor to use Trans-Fee Cross-Chain Model.
+# Frequently Asked Questions
+* When ICO ?
+> The ICO will start in 25 Aug as a Presale Stage.Buy BTL on Presale Stage to receive discount.
+* What is the distribution and supply of BTL ? 
+> We created 1 000 000 000 BTL and 900 000 000 BTL are for sale.
+> The coins unsold will be burned after the ICO !
