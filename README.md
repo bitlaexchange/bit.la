@@ -24,8 +24,8 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 > The coins unsold will be burned after the ICO !
 > Also a part of the 100 000 000 BTL of the team will be burned too - we will talk with community at that time ! and the rest will be locked for 5 years with yearly percent unlock - we will decide it with community too !
 # Is there a website?
-* http://bit.la/ is the only official website. Beware of phishing pages offering tokens in exchange for private keys.
+* http://bit.la/ is the only official website. Beware of phishing pages offering tokens in exchange for private keys.The page now is only a presentation because there will be built the exchange ! 
 # Is there a Discord/Telegram server?
-* We already have an Telegram but will be disclosed at a time to all our Twitter followers,please follow us on Twitter https://twitter.com/bitlaexchange to receive last news about Bit.la
+* We already have a Telegram but will be disclosed at a time to all our Twitter followers,please follow us on Twitter https://twitter.com/bitlaexchange to receive last news about Bit.la
 # Is there a Twitter account ?
 * The only twitter account we use is https://twitter.com/bitlaexchange so Beware of Scams !
