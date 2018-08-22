@@ -1,4 +1,4 @@
-![Bit.la](https://i.imgur.com/z3xbBxZ.jpg)
+![Bit.la](https://i.imgur.com/xNqoInc.jpg)
 # Bit.la
 Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee Cross-Chain Model,built on POA Network
 # Features
