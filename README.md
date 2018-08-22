@@ -29,3 +29,5 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 * We already have a Telegram but will be disclosed at a time to all our Twitter followers,please follow us on Twitter https://twitter.com/bitlaexchange to receive last news about Bit.la
 # Is there a Twitter account ?
 * The only twitter account we use is https://twitter.com/bitlaexchange so Beware of Scams !
+# Where to buy BTL ?
+You can JOIN ICO on https://wizard.poa.network/invest?addr=0xF8A8e3165cD4821ab01dFe32f51346CbE4c90B48&networkID=1
