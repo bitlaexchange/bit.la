@@ -16,6 +16,8 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 * BTL20 will be used on payment processor too.
 * In this way we just created the first exchange and payment processor to use Trans-Fee Cross-Chain Model.
 # Frequently Asked Questions
+* Team ?
+> We have really a big team,you can check it on LinkedIn https://www.linkedin.com/company/bitla-software/ blockchain new projects divizion. 
 * When ICO ?
 > The ICO will start in 25 Aug as a Presale Stage.Buy BTL on Presale Stage to receive discount.
 * What is the distribution and supply of BTL ? 
