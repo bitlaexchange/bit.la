@@ -1,8 +1,8 @@
 ![Bit.la](https://i.imgur.com/xNqoInc.jpg)
 # Bit.la
-Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee Cross-Chain Model,built on POA Network
+Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee Cross-Chain Model,built on NEO Smart Economy and POA Network !
 # Features
-* Built on POA Network
+* Built on NEO Smart Economy and POA Network !
 * 25% discount using BTL to pay for fees
 * Receive BTL20 for using BTL to pay for fees
 * BTL20 is very important for payment processor
@@ -36,3 +36,4 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 # Where to buy BTL ?
 You can JOIN ICO by sending ETH minimum 0.2 ETH to Crowdsale Contract Address : 0xF8A8e3165cD4821ab01dFe32f51346CbE4c90B48 and you will receive 10 000 BTL = 0.2 ETH on the address you sent ETH.
 Use enought GWEI to make transaction perfect.
+You will receive the coins instantly !
