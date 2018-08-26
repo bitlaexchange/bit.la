@@ -34,4 +34,4 @@ Bit.la the first bitcoin exchange and payment processor to introduce Trans-Fee C
 # Is there a Twitter account ?
 * The only twitter account we use is https://twitter.com/bitlaexchange so Beware of Scams !
 # Where to buy BTL ?
-You can JOIN ICO on https://wizard.poa.network/invest?addr=0xF8A8e3165cD4821ab01dFe32f51346CbE4c90B48&networkID=1
+You can JOIN ICO by sending ETH minimum 0.2 ETH to Crowdsale Contract Address : 0xF8A8e3165cD4821ab01dFe32f51346CbE4c90B48 and you will receive 10 000 BTL = 0.2 ETH
